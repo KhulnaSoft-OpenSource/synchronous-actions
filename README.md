@@ -1,4 +1,4 @@
-# diff-includes
+# synchronous-actions
 This is an action inspired by [netlify/actions/diff-includes](https://github.com/netlify/actions/tree/master/diff-includes) to prevent synchronous actions if changes happen in a specified folder.
 
 ## Usage
